@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.8" height="19.765" viewBox="0 0 16.8 19.765">
+  <g id="interest-send" transform="translate(-38.4)">
+    <g id="Group_438" data-name="Group 438" transform="translate(47.623 13.176)">
+      <g id="Group_437" data-name="Group 437" transform="translate(0)">
+        <path id="Path_1255" data-name="Path 1255" d="M282.508,342.746l-1.318-1.318a.329.329,0,1,0-.466.466l.755.755h-3.817a.329.329,0,0,0,0,.659h3.817l-.755.755a.329.329,0,1,0,.466.466l1.318-1.318A.329.329,0,0,0,282.508,342.746Z" transform="translate(-277.334 -341.331)" fill="#277ab9"/>
+      </g>
+    </g>
+    <g id="Group_440" data-name="Group 440" transform="translate(45.318 9.882)">
+      <g id="Group_439" data-name="Group 439">
+        <path id="Path_1256" data-name="Path 1256" d="M222.541,256a4.941,4.941,0,1,0,4.941,4.941A4.947,4.947,0,0,0,222.541,256Zm0,9.223a4.282,4.282,0,1,1,4.282-4.282A4.287,4.287,0,0,1,222.541,265.223Z" transform="translate(-217.6 -256)" fill="#277ab9"/>
+      </g>
+    </g>
+    <g id="Group_442" data-name="Group 442" transform="translate(38.4 15.482)">
+      <g id="Group_441" data-name="Group 441" transform="translate(0)">
+        <path id="Path_1257" data-name="Path 1257" d="M45.648,403.7H39.06V401.4a.329.329,0,1,0-.659,0v2.635a.33.33,0,0,0,.329.329h6.918a.329.329,0,1,0,0-.659Z" transform="translate(-38.401 -401.067)" fill="#277ab9"/>
+      </g>
+    </g>
+    <g id="Group_444" data-name="Group 444" transform="translate(38.4 14.165)">
+      <g id="Group_443" data-name="Group 443" transform="translate(0)">
+        <path id="Path_1258" data-name="Path 1258" d="M38.729,366.933a.329.329,0,0,0,0,.659h0a.329.329,0,0,0,0-.659Z" transform="translate(-38.4 -366.933)" fill="#277ab9"/>
+      </g>
+    </g>
+    <g id="Group_446" data-name="Group 446" transform="translate(38.4)">
+      <g id="Group_445" data-name="Group 445" transform="translate(0)">
+        <path id="Path_1259" data-name="Path 1259" d="M52.139,5.367,46.868.1a.329.329,0,0,0-.233-.1H38.729A.33.33,0,0,0,38.4.329V13.176a.329.329,0,0,0,.659,0V.659h7.247V5.6a.33.33,0,0,0,.329.329h4.941V8.894a.329.329,0,1,0,.659,0V5.6A.328.328,0,0,0,52.139,5.367Zm-5.174-.1V1.125l4.146,4.146H46.965Z" transform="translate(-38.4)" fill="#277ab9"/>
+      </g>
+    </g>
+  </g>
+</svg>
